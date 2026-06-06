@@ -1,9 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Armenian:wght@400;500;600;700&family=Noto+Serif+Armenian:wght@500;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --font-sans: 'Noto Sans Armenian';
+  --font-serif: 'Noto Serif Armenian';
+}
+
 @layer base {
+  html {
+    @apply bg-beige;
+  }
   body {
-    @apply bg-gray-50 text-gray-900 antialiased;
+    @apply bg-beige text-ink antialiased font-sans;
+  }
+  h1,
+  h2,
+  h3 {
+    @apply font-serif;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .text-pretty {
+    text-wrap: pretty;
   }
 }
