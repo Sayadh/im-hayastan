@@ -1,0 +1,21 @@
+{
+  "name": "armenia-travel",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.11.0 <23"
+  },
+  "scripts": {
+    "dev": "TMPDIR=/tmp nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "nuxt": "^3.14.1592",
+    "typescript": "^5.6.0",
+    "vue-tsc": "^2.1.6"
+  }
+}

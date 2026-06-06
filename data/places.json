@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name_am": "Գառնիի տաճար",
+    "region": "Կոտայք",
+    "category": "Պատմամշակութային",
+    "from_yerevan_minutes": 45,
+    "visit_duration_minutes": 60,
+    "best_for": "Պատմություն, Ընտանիք, Լուսանկարչություն",
+    "route_group": "garni_geghard",
+    "nearby_places": "2,3,4"
+  },
+  {
+    "id": 2,
+    "name_am": "Գեղարդի վանք",
+    "region": "Կոտայք",
+    "category": "Հոգևոր",
+    "from_yerevan_minutes": 55,
+    "visit_duration_minutes": 60,
+    "best_for": "Պատմություն, Հոգևոր, Ճարտարապետություն",
+    "route_group": "garni_geghard",
+    "nearby_places": "1,3,4"
+  },
+  {
+    "id": 3,
+    "name_am": "Գառնիի կիրճ (Քարե սիմֆոնիա)",
+    "region": "Կոտայք",
+    "category": "Բնություն",
+    "from_yerevan_minutes": 50,
+    "visit_duration_minutes": 40,
+    "best_for": "Բնություն, Արշավ, Լուսանկարչություն",
+    "route_group": "garni_geghard",
+    "nearby_places": "1,2"
+  },
+  {
+    "id": 4,
+    "name_am": "Չարենցի կամար",
+    "region": "Կոտայք",
+    "category": "Տեսարան",
+    "from_yerevan_minutes": 40,
+    "visit_duration_minutes": 15,
+    "best_for": "Լուսանկարչություն, Տեսարան",
+    "route_group": "garni_geghard",
+    "nearby_places": "1,2"
+  },
+  {
+    "id": 5,
+    "name_am": "Սևանա լիճ",
+    "region": "Գեղարքունիք",
+    "category": "Բնություն",
+    "from_yerevan_minutes": 70,
+    "visit_duration_minutes": 120,
+    "best_for": "Բնություն, Ընտանիք, Հանգիստ",
+    "route_group": "sevan",
+    "nearby_places": "6"
+  },
+  {
+    "id": 6,
+    "name_am": "Սևանավանք",
+    "region": "Գեղարքունիք",
+    "category": "Հոգևոր",
+    "from_yerevan_minutes": 75,
+    "visit_duration_minutes": 45,
+    "best_for": "Պատմություն, Հոգևոր, Տեսարան",
+    "route_group": "sevan",
+    "nearby_places": "5"
+  },
+  {
+    "id": 7,
+    "name_am": "Խոր Վիրապ",
+    "region": "Արարատ",
+    "category": "Հոգևոր",
+    "from_yerevan_minutes": 50,
+    "visit_duration_minutes": 60,
+    "best_for": "Պատմություն, Հոգևոր, Լուսանկարչություն",
+    "route_group": "khor_virap",
+    "nearby_places": ""
+  },
+  {
+    "id": 8,
+    "name_am": "Նորավանք",
+    "region": "Վայոց ձոր",
+    "category": "Հոգևոր",
+    "from_yerevan_minutes": 110,
+    "visit_duration_minutes": 60,
+    "best_for": "Պատմություն, Հոգևոր, Ճարտարապետություն",
+    "route_group": "noravank",
+    "nearby_places": "9"
+  },
+  {
+    "id": 9,
+    "name_am": "Արենիի քարանձավ",
+    "region": "Վայոց ձոր",
+    "category": "Բնություն",
+    "from_yerevan_minutes": 105,
+    "visit_duration_minutes": 45,
+    "best_for": "Բնություն, Պատմություն, Գինի",
+    "route_group": "noravank",
+    "nearby_places": "8"
+  },
+  {
+    "id": 10,
+    "name_am": "Տաթևի վանք",
+    "region": "Սյունիք",
+    "category": "Հոգևոր",
+    "from_yerevan_minutes": 240,
+    "visit_duration_minutes": 90,
+    "best_for": "Պատմություն, Հոգևոր, Ճարտարապետություն",
+    "route_group": "tatev",
+    "nearby_places": ""
+  },
+  {
+    "id": 11,
+    "name_am": "Էջմիածնի մայր տաճար",
+    "region": "Արմավիր",
+    "category": "Հոգևոր",
+    "from_yerevan_minutes": 30,
+    "visit_duration_minutes": 60,
+    "best_for": "Պատմություն, Հոգևոր, Ճարտարապետություն",
+    "route_group": "echmiadzin",
+    "nearby_places": "12"
+  },
+  {
+    "id": 12,
+    "name_am": "Զվարթնոցի տաճար",
+    "region": "Արմավիր",
+    "category": "Պատմամշակութային",
+    "from_yerevan_minutes": 20,
+    "visit_duration_minutes": 40,
+    "best_for": "Պատմություն, Ճարտարապետություն, Լուսանկարչություն",
+    "route_group": "echmiadzin",
+    "nearby_places": "11"
+  }
+]
